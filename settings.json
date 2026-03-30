@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "LitSmp-nG8O.aternos.me:24722",
+    "ip": "LitSmp-nG8O.aternos.me",
     "port": 24722,
     "version": "",
     "try-creative": false
