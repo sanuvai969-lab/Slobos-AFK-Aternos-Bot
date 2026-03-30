@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "LitSmp-nG8O.aternos.me",
+    "ip": "emperor.aternos.host",
     "port": 24722,
-    "version": "",
+    "version": "1.21.11",
     "try-creative": false
   },
   "position": {
